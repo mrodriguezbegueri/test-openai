@@ -1,0 +1,12 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#4C1357",
+        "titleBar.activeBackground": "#6A1A7A",
+        "titleBar.activeForeground": "#FEFBFE"
+    },
+    "cSpell.words": [
+        "langchain",
+        "openai",
+        "vectorstores"
+    ]
+}
